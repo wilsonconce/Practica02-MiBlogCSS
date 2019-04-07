@@ -1,6 +1,6 @@
 # Contaminacion al medio ambiente
-un sitio web creado para dar a conocer las diferentes 
-tipos de contaminacion 
+Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera
+los sitios de web y de negocios en Internet 
 
 <h1>Objective</h1>
 
