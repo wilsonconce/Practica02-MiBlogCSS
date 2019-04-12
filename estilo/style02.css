@@ -1,0 +1,13 @@
+p.destacado {
+    color: tomato;
+}
+
+.error {color: turquoise;}
+.destacado{font-size: 20px;}
+.especial{font-weight: bold;}
+
+#destacado {color: chocolate}
+
+* {
+    border: solid;
+}

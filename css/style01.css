@@ -1,0 +1,70 @@
+.seccion01{
+    padding: 5px;
+    margin: 10px;
+    width: 20%;
+    float: left;
+}
+
+.seccion02{
+    margin: 10px;
+    width: 55%;
+    float: left;
+}
+
+.seccion03{
+    margin: 10px;
+    width: 25%;
+    float: left;
+}
+.seccion04{
+    margin: 20px;
+    width: 100%;
+    float: left;
+}
+.seccion{
+    margin: 10px;
+    width: 100%;
+    float: left;
+}
+.seccion05{
+    margin: 10px;
+    width: 100%;
+    float: left;
+}
+
+.imagen{
+    width: 250px;
+    height: 50px;
+}
+
+.navegar01{
+    font-size: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.navegar01 ul li{
+    padding: 5px;
+}
+
+#logo01{
+    width: 80%;
+    float: left;
+}
+#buscador{
+    width: 20%;
+    float: left;
+}
+.img01{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.id01{
+    color: green;
+}
+#copy{
+    margin: 10px;
+    float: right;
+}
+
