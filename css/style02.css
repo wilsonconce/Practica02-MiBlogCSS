@@ -1,0 +1,21 @@
+.columna01{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+.columna02{
+    width: 75%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+.pie02{
+    width: 100%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}

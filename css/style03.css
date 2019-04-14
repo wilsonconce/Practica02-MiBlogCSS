@@ -1,0 +1,28 @@
+.columna001{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+.columna002{
+    width: 57%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+.columna003{
+    width: 20%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+.pie03{
+    width: 100%;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
