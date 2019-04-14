@@ -5,9 +5,9 @@ los sitios de web y de negocios en Internet
 <h1>Objective</h1>
 
 <ul>
-  <li> Crear un sitio web informativo</li>
-  <li>Dar a conocer lugares con mayor contaminacion </li>
-  <li> Presentar diversos lugares y sus historias</li>
+  <li> Plantillas aplicadas con CSS</li>
+  <li>Aplicar Reglas CSS</li>
+  <li>Diseñar adecuadamente elementos gráficos en sitios web en Internet </li>
   <li> Compartir conocimientos dentro del sitio web</li>
   </ul>
 
